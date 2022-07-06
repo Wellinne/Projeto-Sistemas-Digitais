@@ -1,0 +1,2 @@
+comando para compilar o timer: iverilog -o timerminseg timerminseg_tb.v timerminseg.v contadormod10.v contadormod6.v
+

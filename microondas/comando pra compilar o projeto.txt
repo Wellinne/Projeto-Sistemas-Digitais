@@ -1,0 +1,1 @@
+comando pra compilar o projeto: iverilog -o microwaveOven microwaveOven.v bcd_7segmentos.v mag_on.v timerAndControlInput.v clkdiv100.v priorityEncoder.v delaydebouncing.v mux.v timerminseg.v contadormod10.v contadormod6.v microwaveOven_tb.v

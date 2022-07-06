@@ -1,0 +1,116 @@
+$date
+	Tue Apr 27 13:00:30 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module priorityEncoder_tb $end
+$var wire 4 ! out_tb [3:0] $end
+$var wire 1 " dataVal_tb $end
+$var reg 1 # enablen_tb $end
+$var reg 10 $ keypad_tb [9:0] $end
+$scope module DUT $end
+$var wire 1 # enablen $end
+$var wire 10 % keypad [9:0] $end
+$var reg 1 " dataVal $end
+$var reg 4 & out [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 &
+b1 %
+b1 $
+0#
+0"
+b0 !
+$end
+#10
+b1 !
+b1 &
+b10 $
+b10 %
+#20
+b10 !
+b10 &
+b100 $
+b100 %
+#30
+b11 !
+b11 &
+b1000 $
+b1000 %
+#40
+b100 !
+b100 &
+b10000 $
+b10000 %
+#50
+b101 !
+b101 &
+b100000 $
+b100000 %
+#60
+b110 !
+b110 &
+b1000000 $
+b1000000 %
+#70
+b111 !
+b111 &
+b10000000 $
+b10000000 %
+#80
+b1000 !
+b1000 &
+b100000000 $
+b100000000 %
+#90
+b1001 !
+b1001 &
+b1000000000 $
+b1000000000 %
+#100
+1"
+bx !
+bx &
+b1111 $
+b1111 %
+#110
+1#
+b1 $
+b1 %
+#120
+b10 $
+b10 %
+#130
+b100 $
+b100 %
+#140
+b1000 $
+b1000 %
+#150
+b10000 $
+b10000 %
+#160
+b100000 $
+b100000 %
+#170
+b1000000 $
+b1000000 %
+#180
+b10000000 $
+b10000000 %
+#190
+b100000000 $
+b100000000 %
+#200
+b1000000000 $
+b1000000000 %
+#210
+b0 $
+b0 %

@@ -1,0 +1,1 @@
+comando pra compilar a entrada de timer e controle: iverilog -o timerAndControlInput timerAndControlInput_tb.v timerAndControlInput.v clkdiv100.v priorityEncoder.v delaydebouncing.v mux.v 
