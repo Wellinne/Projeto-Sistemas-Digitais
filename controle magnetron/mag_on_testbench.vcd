@@ -1,0 +1,185 @@
+$date
+	Mon Apr 26 11:29:44 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ms
+$end
+$scope module mag_on_testbench $end
+$var wire 1 ! mag_test $end
+$var reg 1 " clearn_test $end
+$var reg 1 # doorn_test $end
+$var reg 1 $ startn_test $end
+$var reg 1 % stopn_test $end
+$var reg 1 & timerDone_test $end
+$var integer 32 ' i [31:0] $end
+$scope module ut $end
+$var wire 1 " CLEARN $end
+$var wire 1 # DOOR $end
+$var wire 1 ( RESET $end
+$var wire 1 ) SET $end
+$var wire 1 $ STARTN $end
+$var wire 1 % STOPN $end
+$var wire 1 ! mag $end
+$var wire 1 * nq $end
+$var wire 1 & timer_done $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x*
+x)
+x(
+b0 '
+x&
+x%
+x$
+x#
+x"
+x!
+$end
+#1
+1*
+0!
+0)
+1(
+b1 '
+0$
+0%
+0"
+0#
+0&
+#2
+b10 '
+1&
+#3
+b11 '
+1#
+0&
+#4
+b100 '
+1&
+#5
+b101 '
+1"
+0#
+0&
+#6
+b110 '
+1&
+#7
+b111 '
+1#
+0&
+#8
+b1000 '
+1&
+#9
+b1001 '
+1%
+0"
+0#
+0&
+#10
+b1010 '
+1&
+#11
+b1011 '
+1#
+0&
+#12
+b1100 '
+1&
+#13
+b1101 '
+1"
+0#
+0&
+#14
+b1110 '
+1&
+#15
+1!
+0*
+1)
+0(
+b1111 '
+1#
+0&
+#16
+1*
+0!
+1(
+0)
+b10000 '
+1&
+#17
+0!
+1*
+1(
+0)
+b10001 '
+1$
+0%
+0"
+0#
+0&
+#18
+b10010 '
+1&
+#19
+b10011 '
+1#
+0&
+#20
+b10100 '
+1&
+#21
+b10101 '
+1"
+0#
+0&
+#22
+b10110 '
+1&
+#23
+b10111 '
+1#
+0&
+#24
+b11000 '
+1&
+#25
+b11001 '
+1%
+0"
+0#
+0&
+#26
+b11010 '
+1&
+#27
+b11011 '
+1#
+0&
+#28
+b11100 '
+1&
+#29
+b11101 '
+1"
+0#
+0&
+#30
+b11110 '
+1&
+#31
+b11111 '
+1#
+0&
+#32
+b100000 '
+1&
